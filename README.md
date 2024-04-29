@@ -20,8 +20,8 @@ This project involves implementing a FAQ chatbot feature that can be turned on o
 `compile using "gcc -o server server.c -luuid" the server.c  ant then "./server"
 for client .c -> "gcc -o client client.c" and then "./client"`
 
-#####NOTE#######
- use space " " after each query
+#####NOTE#######\
+ use space " " after each query\
 ################
 
 ## Task 2: FAQ Chatbot with GPT-2 (Improved)
